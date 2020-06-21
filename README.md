@@ -40,7 +40,7 @@ _You **can** combine them_
    1. three b
    
    
-#thank you for reading that!
+# thank you for reading that!
 
 ![chicken Photo](chicken.jpg)
 
