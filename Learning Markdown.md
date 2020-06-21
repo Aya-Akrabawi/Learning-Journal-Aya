@@ -4,4 +4,4 @@ Groth Mindset, simply is when someoene understand that their abilities can be de
 
 ## Growth Vs. Fixed mindest by image:
 
-! [Growth Vs. Fixed mindest] ()
+! [Growth Vs. Fixed mindest] (mindset.png)
