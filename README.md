@@ -8,9 +8,9 @@ is a way on GitHub platform and web, and it's lightweight and easy-to-use syntax
 **Note that you can add text, lists, images, headers & quotes, codes, ... ect**
 ###  Syntax you will use:
 - Headers
-# as <h1> tag
-## as <h2> tag
-###### as <h6> tag
+# to be like <h1> tag
+## to be like <h2> tag
+###### to be <h6> tag
 - Emphasis
 *to make text italic*
 _also to make text italic_
