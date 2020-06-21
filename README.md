@@ -14,5 +14,11 @@ is a way on GitHub platform and web, and it's lightweight and easy-to-use syntax
 
 - Emphasis:
 
+*This text will be italic*
 
-*aya*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
