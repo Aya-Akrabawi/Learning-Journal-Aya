@@ -14,11 +14,26 @@ is a way on GitHub platform and web, and it's lightweight and easy-to-use syntax
 
 - Emphasis:
 
-*This text will be italic*
+*you can write your text in italic*
 
-_This will also be italic_
+_another way to write it in italic_
 
-**This text will be bold**
-__This will also be bold__
+**you can write your text in bold**
+__another way to write it in This will also be bold__
 
 _You **can** combine them_
+
+- Unordered Lists:
+* one
+* two
+  * two a  
+  * two b
+- Ordered Lists:
+1. one 
+1. two
+1. three
+   1. three a
+   1. three b
+- Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
