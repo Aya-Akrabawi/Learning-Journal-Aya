@@ -37,5 +37,6 @@ _You **can** combine them_
 - Images:
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Dress Photo](/images/dress.jpg)
+
+Format: ![Chicken](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fphotos&psig=AOvVaw2_wt8Yn07ybIvnoZPmgIoz&ust=1592839003126000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjJyOmZk-oCFQAAAAAdAAAAABAD)
