@@ -8,6 +8,9 @@ is a way on GitHub platform and web, and it's lightweight and easy-to-use syntax
 **Note that you can add text, lists, images, headers & quotes, codes, ... ect**
 ###  Syntax you will use:
 - Headers:
-# This is an < h1 > tag
-## This is an < h2 > tag
-###### This is an < h6 > tag
+# (#) This is an < h1 > tag
+## (##) This is an < h2 > tag
+###### (######) This is an < h6 > tag
+
+- Emphasis:
+*aya*
