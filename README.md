@@ -5,8 +5,12 @@ is a way on GitHub platform and web, and it's lightweight and easy-to-use syntax
 - Comments in Issues and Pull Requests.
 - Files with the .md or .markdown extension.
 
-**Note that you can add text, lists, images, headers & quotes, codes, ... ect**
-###  Syntax you will use:
+### Note that you can add Basic syntax such as (text, lists, images, headers & quotes, codes, ... ect) and GFM (GitHub Flavored Markdown) such as (Syntax highlighting, Task Lists, Tables, SHA references, Username @mentions, ... ect)
+
+
+
+
+###  examples:
 - Headers:
 # (#) This is an < h1 > tag
 ## (##) This is an < h2 > tag
