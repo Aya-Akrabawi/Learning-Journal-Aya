@@ -34,6 +34,8 @@ _You **can** combine them_
 1. three
    1. three a
    1. three b
-- Images
+- Images:
+
+
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
