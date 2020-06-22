@@ -8,6 +8,7 @@ Now I am learning with LTUC in ASAC software development program to enter the wo
 ### You will find these topics inside:
 **Item** | **Link**
 -------- | --------
+About Me | [link](https://aya-akrabawi.github.io/Learning-Journal-Aya/)
 Learning-Markdown | [link](https://aya-akrabawi.github.io/Learning-Journal-Aya/Learning-Markdown)
 Mark Down Summery | [link](https://aya-akrabawi.github.io/Learning-Journal-Aya/Mark-Down-summery)
 chicken Image | [link](https://github.com/Aya-Akrabawi/Learning-Journal-Aya/blob/master/chicken.jpg)
