@@ -18,4 +18,5 @@
 **Note: CSS rules usually appear in a separate document, although they may appear within an HTML page.**
 
 ## IMPORTANT syntaxes: 
-``` <link href="css/styles.css" type="text/css"rel="stylesheet" /> ```
+- uses the <link> element to indicate where the CSS file is located. ``` <link href="css/styles.css" type="text/css"rel="stylesheet" /> ```
+-  include CSS rules within an HTML page```<style type="text/css"> body {font-family: arial;</style>``` 
