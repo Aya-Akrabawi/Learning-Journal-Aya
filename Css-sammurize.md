@@ -20,3 +20,13 @@
 ## IMPORTANT syntaxes: 
 - uses the <link> element to indicate where the CSS file is located. ``` <link href="css/styles.css" type="text/css"rel="stylesheet" /> ```
 -  include CSS rules within an HTML page```<style type="text/css"> body {font-family: arial;</style>``` 
+- ```<body>
+ <h1 id="top">Kitchen Garden Calendar</h1>
+ <p id="introduction">Here you can read our
+ handy guide about what to do when.</p> 
+ ```
+ ```<body>
+ <h1 id="top">Kitchen Garden Calendar</h1>
+ <p id="introduction">Here you can read our
+ handy guide about what to do when.</p> 
+ ```
