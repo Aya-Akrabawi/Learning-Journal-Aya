@@ -20,13 +20,24 @@
 ## IMPORTANT syntaxes: 
 - uses the <link> element to indicate where the CSS file is located. ``` <link href="css/styles.css" type="text/css"rel="stylesheet" /> ```
 -  include CSS rules within an HTML page```<style type="text/css"> body {font-family: arial;</style>``` 
-- ```<body>
- <h1 id="top">Kitchen Garden Calendar</h1>
- <p id="introduction">Here you can read our
- handy guide about what to do when.</p> 
- ```
- ```<body>
- <h1 id="top">Kitchen Garden Calendar</h1>
- <p id="introduction">Here you can read our
- handy guide about what to do when.</p> 
- ```
+- add identity in HTML and ```  <h1 id="top">Kitchen Garden Calendar</h1>```
+- CSS selector:
+
+
+![Css Selectos](CSS-selectors.png)
+
+
+- /* change color by name */ ``` h1 {color: DarkCyan;}```
+- /* change hex by code */ ```h2 {color: #ee3e80;}```
+- /* change rgb by value */ ```p {color: rgb(100,100,90);}```
+
+
+## Notes on Color in CSS:
+1. Color not only brings your site to life, but also helps convey the mood and evokes reactions.
+2. There are three ways to specify colors in CSS: RGB values, hex codes, and color names.
+3. Color pickers can help you find the color you want.
+4. It is important to ensure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
+5. CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
+6. CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
+
+
