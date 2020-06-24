@@ -23,7 +23,7 @@ logical AND | logical OR | logical NOT
 **Loops** : checks a condition, if it's true, the code will run, andd keep checking if it's true until the condition returns false.
 
 
-[expression](C:\Users\Ayako\ltuc\102\Learning-Journal-Aya\Loop.png)
+![expression](Loop.png)
 
 
 
@@ -35,7 +35,7 @@ run as long as a condition is met.
 
 
 
-![how it works](C:\Users\Ayako\ltuc\102\Learning-Journal-Aya\For.png)
+![how it works](For.png)
 
 
 
