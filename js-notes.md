@@ -6,5 +6,5 @@
 * Start with the big picture of what you want to achieve, and break that down into smaller steps:
 1: DEFINE THE GOAL 2: DESIGN THE SCRIPT (by flowchart) 3: CODE EACH STEP
 
-![Learning-Journal-Aya\tasks.png](flowchart)
-![Learning-Journal-Aya\steps.png](tasks)
+![tasks.png](flowchart)
+![steps.png](tasks)
